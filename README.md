@@ -56,25 +56,3 @@
 • This platform allows for dynamic interaction through posts, comments, and user profiles, enhancing the online discussion experience  
 
 ---
-
-## Leadership Experience
-
-• **Project Leader for Impact Experience Project at NUS College:** Leading a two-year project developing a device and mobile app to monitor and correct posture in real-time, targeting early-stage scoliosis  
-• **NUS College Orientation Committee Member:** Led orientation activities for new students, coordinating events and guiding incoming Year 1 students  
-• **NUS College Peer Mentor:** Provided academic and personal support to first-year students  
-• **Student Ambassador and Peer Student Supporter for NUS College**  
-
----
-
-## Extracurriculars and Interests
-
-• Volunteered and led several donation drives as part of the interact club in high school  
-• Wrote a particle physics blog with over 900 followers  
-• Enjoy reading, playing table tennis, badminton, swimming, and exploring new activities such as crochet in my free time  
-
----
-
-## Awards and Scholarship
-
-• Recipient of the NUS College International Scholarship  
-• Certified in the Community Emergency Preparedness Programme  
