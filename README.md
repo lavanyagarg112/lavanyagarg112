@@ -1,7 +1,5 @@
 # Lavanya Garg
 
-[LinkedIn](https://www.linkedin.com/in/lavanyagarg/)
-
 ---
 
 ## Education
