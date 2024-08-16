@@ -14,7 +14,7 @@
 
 ## Technical Skills
 
-• **Programming Languages:** Python | Java | JavaScript | SQL | C 
+• **Programming Languages:** Python | Java | JavaScript | SQL | C  
 • **Full-stack Web Development:** HTML | CSS | React JS | Typescript | Ruby on Rails | Golang  
 • **Technical Tools:** Git/GitHub/GitLab | Figma | Canva | Microsoft Office Suite (Word, PowerPoint, Excel)  
 • **Generative AI**  
