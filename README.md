@@ -1,6 +1,6 @@
 # Lavanya Garg
 
-**Email:** [lavanyagarg@u.nus.edu](mailto:lavanyagarg@u.nus.edu) | [LinkedIn](https://www.linkedin.com/in/lavanyagarg/) | [GitHub](https://github.com/lavanyagarg112)  
+[LinkedIn](https://www.linkedin.com/in/lavanyagarg/)
 
 ---
 
