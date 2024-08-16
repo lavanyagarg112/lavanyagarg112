@@ -10,11 +10,11 @@
 **National University of Singapore** | Aug 2023 - Jul 2027  
 *Bachelor of Computing in Computer Science, Year 2*  
 • Second Major in Mathematics, Student at NUS College (the honours college of NUS)  
-**Relevant Coursework:**  
-• **CS1101S:** Programming Methodology I (Functional Programming)  
-  • Tutorial Assistant (Aug 2024 – Present)  
-• **CS2030S:** Programming Methodology II (Object-Oriented Programming)  
-• **CS2040S:** Data Structures and Algorithms  
+  **Relevant Coursework:**  
+  • **CS1101S:** Programming Methodology I (Functional Programming)  
+    • Tutorial Assistant (Aug 2024 – Present)  
+  • **CS2030S:** Programming Methodology II (Object-Oriented Programming)  
+  • **CS2040S:** Data Structures and Algorithms  
 
 ---
 
