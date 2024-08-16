@@ -1,7 +1,6 @@
 # Lavanya Garg
 
 **Email:** [lavanyagarg@u.nus.edu](mailto:lavanyagarg@u.nus.edu) | [LinkedIn](https://www.linkedin.com/in/lavanyagarg/) | [GitHub](https://github.com/lavanyagarg112)  
-**Visa:** Student Pass - Authorized for internship work in Singapore
 
 ---
 
@@ -10,19 +9,6 @@
 **National University of Singapore** | Aug 2023 - Jul 2027  
 *Bachelor of Computing in Computer Science, Year 2*  
 • Second Major in Mathematics, Student at NUS College (the honours college of NUS)
-
----
-
-## Professional Experience
-
-**Computing for Voluntary Welfare Organisations** | Intern | May 2024 - Present  
-• Merged frontend and backend repositories to standardize systems for all clients using React, Typescript, and Golang  
-• Implemented frontend and backend enhancements, prioritizing critical client requests for a seamless user experience  
-• Served as team coordinator, taking meeting minutes and coordinating meetings and administrative tasks  
-
-**YM Global Technologies Pte. Ltd.** | Intern | Oct 2022  
-• Delivered presentations on various topics in front of a team  
-• Built a short project on Twitter Sentiment Analysis of the Ukraine-Russia War using Python and NLP techniques  
 
 ---
 
