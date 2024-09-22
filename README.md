@@ -20,7 +20,7 @@
 
 ## Project Experience
 
-**MeetWise (In progress) ([See Github](https://github.com/lavanyagarg112/meetwise))**  
+**MeetWise ([See Github](https://github.com/lavanyagarg112/meetwise))**  
 • Aim to leverage generative AI to develop comprehensive analytics and real-time summarization features  
 • Implemented transcript generation, summarization, and task management to help teams stay organized and productive  
 • Utilized Python and React.js for backend and frontend development respectively  
