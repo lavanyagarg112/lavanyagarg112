@@ -1,5 +1,4 @@
 # Lavanya Garg
----
 
 ## Project Experience
 
