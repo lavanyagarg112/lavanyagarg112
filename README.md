@@ -11,7 +11,7 @@
 • Developed AI visualization tools for brainstorming sessions and to enhance idea generation  
 • Utilized Python and React.js for development  
 
-**ThreadTalk ([See GitHub](https://github.com/lavanyagarg112/threadtalk), [Website](https://threadtalk-t5y1.onrender.com/))**  
+**ThreadTalk ([See GitHub](https://github.com/lavanyagarg112/threadtalk))**  
 • Created an online forum with secure authentication using React with Typescript for frontend and Ruby on Rails for backend  
 • This platform allows for dynamic interaction through posts, comments, and user profiles, enhancing the online discussion experience  
 
