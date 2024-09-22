@@ -1,23 +1,6 @@
 # Lavanya Garg
 ---
 
-## Education
-
-**National University of Singapore** | Aug 2023 - Jul 2027  
-*Bachelor of Computing in Computer Science, Year 2*  
-• Second Major in Mathematics, Student at NUS College (the honours college of NUS)
-
----
-
-## Technical Skills
-
-• **Programming Languages:** Python | Java | JavaScript | SQL | C  
-• **Full-stack Web Development:** HTML | CSS | React JS | Typescript | Ruby on Rails | Golang  
-• **Technical Tools:** Git/GitHub/GitLab | Figma | Canva | Microsoft Office Suite (Word, PowerPoint, Excel)  
-• **Generative AI**  
-
----
-
 ## Project Experience
 
 **MeetWise ([See Github](https://github.com/lavanyagarg112/meetwise))**  
