@@ -4,7 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=3000&color=1ABC9C&center=true&width=500&lines=Welcome+to+my+GitHub+profile!;I+love+exploring+new+solutions;Let’s+create+something+incredible!" alt="Typing SVG">
 </p>
 
-Hi there! I’m Lavanya, a **Computer Science Year 2** student exploring **AI**, **Computational Neuroscience**, and **Cybersecurity**. Currently, I’m honing my skills with the **Robotics Club** and bringing ideas to life through code. Here’s a glimpse of what I’ve been working on:
+Hi there! I’m Lavanya, a **Computer Science Year 2** student exploring **AI**, **Computational Neuroscience**, and **Cybersecurity**. 
+Here’s a glimpse of what I’ve been working on:
 
 ---
 
