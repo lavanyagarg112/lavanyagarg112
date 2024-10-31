@@ -52,7 +52,7 @@ Here’s a glimpse of what I’ve been working on:
 ## 💬 Let’s Connect!
 Feel free to reach out if you’d like to collaborate or chat about cool project ideas!
 <p align="center">
-  <a href="https://www.linkedin.com/in/lavanya-garg"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/lavanyagarg"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/lavanyagarg112"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
