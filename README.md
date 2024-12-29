@@ -20,7 +20,7 @@
 - Implemented transcript generation, summarization, and task management to help teams stay organized and productive  
 - Utilized Python and React.js for backend and frontend development respectively  
 
-**IdeaMaze ([See GitHub](https://github.com/lavanyagarg112/ai-ideamaze)**  
+**IdeaMaze ([See GitHub](https://github.com/lavanyagarg112/ai-ideamaze))**  
 - Developed AI visualization tools for brainstorming sessions and to enhance idea generation  
 - Utilized Python and React.js for development  
 
