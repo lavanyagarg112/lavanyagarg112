@@ -2,6 +2,13 @@
 
 ## Project Experience
 
+**Fitness Tracking Telegram Bot ([See Github](https://github.com/lavanyagarg112/fitnesstrackingbot))**
+- Developed a Telegram bot to help users track their fitness activities, goals, and progress using Google Sheets.
+- Features include automated daily and hourly reminders, batch updates, goal management, and more for individual or group use.
+- Integrated timezone support for accurate reminders and statistics.
+- Utilized Python for the backend, Google Sheets API for data handling, and Telegram Bot API for user interaction.
+- Designed with a focus on security, allowing access only to a designated individual or group chat.
+
 **TeleToDrive ([See Github](https://github.com/lavanyagarg112/teletodrive))**
 - Built a tool to seamlessly transfer photos and videos from Telegram topics or channels to Google Drive.
 - Implemented filtering options based on date and timezone to allow precise media transfers.
