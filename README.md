@@ -1,1 +1,1 @@
-Profile: [Link to personal Website](https://www.lavanyagarg.com/)
+Profile: [Link to personal website](https://www.lavanyagarg.com/)
